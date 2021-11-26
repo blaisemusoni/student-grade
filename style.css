@@ -1,0 +1,30 @@
+body{
+    background-color: darkcyan;
+
+    color: whitesmoke;
+
+}
+.content{
+    padding: 3%;
+    margin: 3%;
+}
+.red{
+    background-color: red;
+    padding: 4%;
+}
+.blue{
+    background-color: blue;
+    padding: 4%;
+}
+.whit{
+    background-color: white;
+    color: black;
+    
+}
+.con{
+    padding: 3%;
+    margin: 3%;
+    margin-left: -10%;
+    margin-right: -10%;
+    
+}
